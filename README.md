@@ -4,6 +4,8 @@ when you find them on the wildweb.
 
 Open, read, put some brain's into it, learn something. You owe it to ALL creators, contributors before you.
 
+oh. and remember to unzip the archives under **Resources** :P
+
 
 ## Specs:
 - Case: Fractal Design Define S
