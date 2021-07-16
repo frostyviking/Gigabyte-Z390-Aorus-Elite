@@ -31,6 +31,7 @@ oh. and remember to unzip the archives under **Resources** :P
 - Sound Logitech Z623
 - Headset SteelSeries Siberia v2 Black/Gold
 - Apple AirPods Pro
+- Camera Lenovo 500 RGB
 
 ## BIOS Settings
 As per OpenCore guide, nothing dramatic needed to be done.
