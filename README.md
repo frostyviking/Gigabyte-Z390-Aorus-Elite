@@ -9,7 +9,7 @@ Open, read, put some brain's into it, learn something. You owe it to ALL creator
 - Case: Fractal Design Define S
 - ACDC: Fractal Design Newton R3 1000W
 - Main: Gigabyte Aorus Z390 Elite
-- BIOS: 
+- BIOS: F10c 12/18/2019
 - CPU: Intel® Core i9-9900K
 - AIO: Fractal Design Celsius S36
 - GPU: Gigabyte Aorus RX5700XT
@@ -25,7 +25,7 @@ Open, read, put some brain's into it, learn something. You owe it to ALL creator
 As per OpenCore guide, nothing dramatic needed to be done.
 I have 2 profiles saved in bios.
 One stable all core 5.1GHz OC for when i feel like booting up windows to game.
-One for macOS with a tiny bit bumped voltages for cpu and ram, fan/pump curves adjusted for silence but not to sacrifice cooling.
+One for macOS with a bit bumped voltages for cpu and ram, fan/pump curves adjusted for silence but not to sacrifice cooling. Active Turbo Ratios are set to 51 for all the cores.
 
 ## RGB you say?
 - I say nay, it's all turned off -just doesn't float my boat.
