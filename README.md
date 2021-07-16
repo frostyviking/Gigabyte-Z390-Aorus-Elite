@@ -23,6 +23,15 @@ oh. and remember to unzip the archives under **Resources** :P
 - Audio: Realtek® ALC1220-VB Codec
 - Fans: 2 x Silent Series R3 140 mm
 
+## Peripherals:
+- Asus ROG Strix XG32V (main display, DP)
+- HP ProDisplay P232 (secondary display DP)
+- Keyboard Xtrfy K4 TKL
+- Mouse Xtrfy M42
+- Sound Logitech Z623
+- Headset SteelSeries Siberia v2 Black/Gold
+- Apple AirPods Pro
+
 ## BIOS Settings
 As per OpenCore guide, nothing dramatic needed to be done.
 I have 2 profiles saved in bios.
