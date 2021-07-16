@@ -28,7 +28,7 @@ One stable all core 5.1GHz OC for when i feel like booting up windows to game.
 One for macOS with a tiny bit bumped voltages for cpu and ram, fan/pump curves adjusted for silence but not to sacrifice cooling.
 
 ## RGB you say?
-- I say nay, it all turned off -just doesn't float my boat.
+- I say nay, it's all turned off -just doesn't float my boat.
 
 ## Current OS
 - macOS Big Sur 11.4 (Build 20F71)
