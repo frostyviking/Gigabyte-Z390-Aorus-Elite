@@ -45,7 +45,7 @@ I have 2 profiles saved in bios.
 - I say nay, it's all turned off -just doesn't float my boat.
 
 ## Current OS
-- macOS Big Sur 11.4 (Build 20F71)
+- macOS Big Sur 11.5 (Build 20G71)
 - Windows 10 21H1 (19043.1110)
 
 ## Bootloader
