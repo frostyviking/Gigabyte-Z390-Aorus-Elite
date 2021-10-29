@@ -1,4 +1,7 @@
 # This is not a guide, this is just a tribute.
+
+(will update this when i have migrated to macOS Monterey -im in no hurry)
+
 Read up on OpenCore, don't just blind copypasta EFI's, kexts, .plist files, pathces,
 when you find them on the wildweb.
 
